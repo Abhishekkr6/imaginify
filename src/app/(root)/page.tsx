@@ -5,6 +5,7 @@ const Home = () => {
   return (
     <div>
       <p>Home</p>
+      <p>Clerk</p>
 
       <UserButton afterSignOutUrl="/" />
     </div>
